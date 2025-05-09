@@ -1,6 +1,8 @@
-# modern frontend toolchain
+# past sharings
 
-simple examples on how to build a dev toolchain from scratch
+some of the past sharings i've been to / given
 
-- [x] implementing HMR from scratch
-- [ ] ???
+- bash
+- latex
+- cvwo
+- hmr
